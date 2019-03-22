@@ -1,0 +1,87 @@
+.generateodrdiv
+{
+    position: relative;
+    width: 50%;
+    height: 30%;
+    float: left;
+    margin-top: 5%;
+    background-color: rgba(56, 133, 233, 0.904);
+    clear: both;
+}
+
+.generateodrdiv:hover
+{
+    position: relative;
+    background-color: rgba(28, 110, 218, 0.904);
+}
+
+.customizeodrdiv
+{
+    position: relative;
+    width: 50%;
+    height: 30%;
+    float: right;
+    margin-top: -15.12%;
+    background-color:rgba(45, 182, 56, 0.9);
+    clear: both;
+}
+
+.customizeodrdiv:hover
+{
+    position: relative;
+    background-color: rgba(15, 156, 27, 0.9);
+}
+
+ .leftcontent
+{
+    position: relative;
+    width: 30%;
+    height: 26%;
+    float: left;
+    margin-left: 16%;
+    margin-top: 14%;
+    background-color: chartreuse;
+}
+
+/*.leftcontent:hover
+{
+    background-color: aqua;
+}
+
+.rightcontent
+{
+    position: relative;
+    width: 30%;
+    height: 26%;
+    float: right;
+    margin-right: 15%;
+    margin-top: 14%;
+    margin-bottom: 4%;
+} */
+
+.contentHeading
+{
+    position: relative;
+    text-align: justify;
+    color: black;
+    font-size: 1.8rem;
+}
+
+.contentParagraph
+{
+    position: relative;
+    text-align: justify;
+    color: black;
+    font-size: 1rem;
+}
+
+.textdiv
+{
+    position: relative;
+    width: 50%;
+    height: 26%;
+    float: left;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+

@@ -1,0 +1,41 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.1.1",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.3",
+    "image-map": "^1.1.5",
+    "mapbox-gl": "^0.53.0",
+    "react": "^16.7.0",
+    "react-chartjs-2": "^2.7.4",
+    "react-csv-reader": "^1.2.2",
+    "react-dom": "^16.7.0",
+    "react-dropzone": "^8.0.4",
+    "react-image-mapper": "0.0.8",
+    "react-mapbox-gl": "^3.9.2",
+    "react-mapbox-gl-draw": "^1.0.5",
+    "react-redux": "^6.0.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.5",
+    "react-scroll-to-component": "^1.0.2",
+    "recharts": "^1.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
